@@ -21,7 +21,7 @@ class LoadingScreenState extends State<LoadingScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey[400],
+      backgroundColor: Colors.grey[500],
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
